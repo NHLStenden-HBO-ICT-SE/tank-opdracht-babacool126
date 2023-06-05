@@ -1,7 +1,7 @@
 #include "precomp.h" // include (only) this in every .cpp file
 
-constexpr auto num_tanks_blue = 2048;
-constexpr auto num_tanks_red = 2048;
+constexpr auto num_tanks_blue = 500;
+constexpr auto num_tanks_red = 500;
 
 constexpr auto tank_max_health = 1000;
 constexpr auto rocket_hit_value = 60;
